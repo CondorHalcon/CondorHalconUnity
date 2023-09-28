@@ -1,0 +1,14 @@
+{
+  "name": "com.condorhalcon.condorhalconunity",
+  "version": "1.0.0",
+  "displayName": "CondorHalcon Unity",
+  "description": "Extentions to UnityC# as prefered by CondorHalcon",
+  "unity": "2019.1",
+  "dependencies": {},
+  "keywords": [ "condor", "condorhalcon", "halcon", "condor unity", "halcon unity", "extention" ],
+  "author": {
+    "name": "CondorHalcon",
+    "email": "condorhalcon20@gmail.com",
+    "url": "http://condorhalcon.com"
+  }
+}
